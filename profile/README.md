@@ -5,7 +5,11 @@
 
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
 
-## My other Scripts
+## Developers
+* [Musiker15](https://github.com/Musiker15)
+* [cmd2401](https://github.com/cmd2401)
+
+## Our other Scripts
 #### PAID
 * [[ESX] MSK Armor | Multiple Armor Vests](https://forum.cfx.re/t/release-esx-armor-script-usable-armor-vests-status-will-be-saved-in-database-and-restore-after-relog/4812243)
 * [[ESX] MSK Banking | NativeUI](https://forum.cfx.re/t/esx-msk-bankingsystem-with-nativeui/4859560)
