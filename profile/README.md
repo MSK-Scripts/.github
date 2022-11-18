@@ -5,9 +5,6 @@
 
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
 
-<a href="http://www.github.com/MSK-Scripts"><img src="https://github-readme-stats.vercel.app/api?username=MSK-Scripts&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MSK-Scripts GitHub stats" /></a>
-<a href="https://github.com/MSK-Scripts" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSK-Scripts&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ## My other Scripts
 #### PAID
 * [[ESX] MSK Armor | Multiple Armor Vests](https://forum.cfx.re/t/release-esx-armor-script-usable-armor-vests-status-will-be-saved-in-database-and-restore-after-relog/4812243)
