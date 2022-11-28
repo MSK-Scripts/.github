@@ -14,6 +14,7 @@
 * [[ESX] MSK Armor | Multiple Armor Vests](https://forum.cfx.re/t/release-esx-armor-script-usable-armor-vests-status-will-be-saved-in-database-and-restore-after-relog/4812243)
 * [[ESX] MSK Banking | NativeUI](https://forum.cfx.re/t/esx-msk-bankingsystem-with-nativeui/4859560)
 * [[ESX] MSK Crafting | with NativeUI](https://forum.cfx.re/t/esx-msk-crafting-with-nativeui/4898261)
+* [[ESX] MSK Garage and Impound with NativeUI](https://forum.cfx.re/t/esx-msk-garage-and-impound-with-nativeui/4947059)
 * [[ESX] MSK Handcuffs | Realistic Handcuffs](https://forum.cfx.re/t/esx-msk-handcuffs-realistic-handcuffs/4885324)
 * [[ESX] MSK SaveCoordMenu](https://forum.cfx.re/t/esx-msk-savecoordmenu/4898218)
 * [[ESX] MSK Shopsystem | NativeUI & Database Feature](https://forum.cfx.re/t/release-esx-msk-shopsystem-nativeui-database-feature/4853593)
