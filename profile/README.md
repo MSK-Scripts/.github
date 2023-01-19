@@ -7,7 +7,7 @@
 
 ## Developers
 * [Musiker15](https://github.com/Musiker15)
-* [cmd2401](https://github.com/cmd2401)
+* [cmd](https://github.com/msk-cmd)
 
 ## Our other Scripts
 #### PAID
