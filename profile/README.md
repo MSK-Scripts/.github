@@ -1,7 +1,7 @@
 ## MSK Scripts
 * Tebex: https://www.msk-scripts.de
 * Discord: https://discord.gg/5hHSBRHvJE
-* Documentation: https://musiker15.gitbook.io/msk-scripts
+* Documentation: https://docu.msk-scripts.de/
 
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
 
