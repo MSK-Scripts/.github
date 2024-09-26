@@ -6,7 +6,9 @@
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
 
 ## Developers
-* [Musiker15](https://github.com/Musiker15)
+* [Musiker15](https://github.com/Musiker15) - *Founder*
+* [cmd](https://github.com/cmd2401) - *Developer*
+* [Schaun das Schaf](https://github.com/CodeStudios2023) - *UI Designer / Web Developer*
 
 ## Our other Scripts
 ### Paid
