@@ -7,7 +7,7 @@
 
 ## Developers
 * [Musiker15](https://github.com/Musiker15) - *Founder*
-* [cmd](https://github.com/cmd2401) - *Developer*
+* [cmdde](https://github.com/cmdscripts) - *Developer*
 * [Schaun das Schaf](https://github.com/CodeStudios2023) - *UI Designer / Web Developer*
 
 ## Our other Scripts
