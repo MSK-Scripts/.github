@@ -10,6 +10,9 @@
 * [cmdde](https://github.com/cmdscripts) - *Developer*
 * [Schaun das Schaf](https://github.com/CodeStudios2023) - *UI Designer / Web Developer*
 
+## Debian Tutorials
+* [Tutorials](https://docu.musiker15.de/)
+
 ## FiveM Scripts
 ### Paid
 * [[ESX] MSK Banking - Advanced Banking  with NativeUI](https://forum.cfx.re/t/esx-msk-bankingsystem-with-nativeui/4859560)
