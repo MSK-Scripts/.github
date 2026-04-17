@@ -11,7 +11,7 @@
 * [Schaun das Schaf](https://github.com/CodeStudios2023) - *UI Designer / Web Developer*
 
 ## Debian Tutorials
-* [Tutorials by Musiker15](https://docu.musiker15.de/)
+* [Tutorials by Musiker15](https://www.musiker15.de/)
 
 ## FiveM Scripts
 ### Paid
