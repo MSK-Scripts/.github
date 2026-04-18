@@ -3,6 +3,9 @@
 * Discord: https://discord.gg/5hHSBRHvJE
 * Documentation: https://docu.msk-scripts.de/
 
+![GitHub followers](https://img.shields.io/github/followers/MSK-Scripts?style=for-the-badge&logo=github&label=Followers)
+![GitHub Org's stars](https://img.shields.io/github/stars/MSK-Scripts?style=for-the-badge&logo=github)
+
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
 
 ## Developers
@@ -11,7 +14,7 @@
 * [Schaun das Schaf](https://github.com/CodeStudios2023) - *UI Designer / Web Developer*
 
 ## Debian Tutorials
-* [Tutorials by Musiker15](https://www.musiker15.de/)
+* [Debian Tutorials by Musiker15](https://www.musiker15.de/)
 
 ## FiveM Scripts
 ### Paid
