@@ -1,5 +1,5 @@
 ## MSK Scripts
-* Tebex: https://www.msk-scripts.de
+* Shop: https://www.msk-scripts.de
 * Discord: https://discord.gg/5hHSBRHvJE
 * Documentation: https://docu.msk-scripts.de/
 
@@ -11,7 +11,7 @@
 ## Developers
 * [Musiker15](https://github.com/Musiker15) - *Founder*
 * [cmdde](https://github.com/cmdscripts) - *Developer*
-* [Schaun das Schaf](https://github.com/CodeStudios2023) - *UI Designer / Web Developer*
+* [CS.AKツ](https://github.com/CodeStudios2023) - *UI Designer / Web Developer*
 
 ## Debian Tutorials
 * [Debian Tutorials by Musiker15](https://www.musiker15.de/)
