@@ -9,9 +9,9 @@
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
 
 ## Developers
-* [Musiker15](https://github.com/Musiker15) - *Founder*
-* [cmdde](https://github.com/cmdscripts) - *Developer*
-* [CS.AKツ](https://github.com/CodeStudios2023) - *UI Designer / Web Developer*
+* [Musiker15](https://github.com/Musiker15) - *Founder - Backend Developer*
+* [cmdde](https://github.com/cmdscripts) - *Frontend & Backend Developer*
+* [CS.AKツ](https://github.com/CodeStudios2023) - *Frontend & Backend Developer*
 
 ## Debian Tutorials
 * [Debian Tutorials by Musiker15](https://www.musiker15.de/)
