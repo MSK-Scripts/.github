@@ -1,12 +1,14 @@
 ## MSK Scripts
-* Shop: https://www.msk-scripts.de
+* Website: https://www.msk-scripts.de
 * Discord: https://discord.gg/5hHSBRHvJE
 * Documentation: https://docu.msk-scripts.de/
 
 ![GitHub followers](https://img.shields.io/github/followers/MSK-Scripts?style=for-the-badge&logo=github&label=Followers)
 ![GitHub Org's stars](https://img.shields.io/github/stars/MSK-Scripts?style=for-the-badge&logo=github)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/MSK-Scripts?style=for-the-badge&logo=githubsponsors)
 
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
+
 
 ## Developers
 * [Musiker15](https://github.com/Musiker15) - *Founder & Backend Developer*
