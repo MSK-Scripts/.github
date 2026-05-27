@@ -1,6 +1,6 @@
 ## MSK Scripts
 * Website: https://www.msk-scripts.de
-* Documentation: https://docu.msk-scripts.de/
+* Documentation: https://docu.msk-scripts.de
 * Discord: https://discord.gg/5hHSBRHvJE
 
 ![GitHub followers](https://img.shields.io/github/followers/MSK-Scripts?style=for-the-badge&logo=github&label=Followers)
