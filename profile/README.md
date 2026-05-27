@@ -1,7 +1,7 @@
 ## MSK Scripts
 * Website: https://www.msk-scripts.de
-* Discord: https://discord.gg/5hHSBRHvJE
 * Documentation: https://docu.msk-scripts.de/
+* Discord: https://discord.gg/5hHSBRHvJE
 
 ![GitHub followers](https://img.shields.io/github/followers/MSK-Scripts?style=for-the-badge&logo=github&label=Followers)
 ![GitHub Org's stars](https://img.shields.io/github/stars/MSK-Scripts?style=for-the-badge&logo=github)
@@ -16,7 +16,7 @@
 * [CS.AKツ](https://github.com/CodeStudios2023) - *Frontend & Backend Developer*
 
 ## Debian Tutorials
-* [Debian Tutorials by Musiker15](https://www.musiker15.de/)
+* [Musiker15 Website (www.musiker15.de)](https://www.musiker15.de/)
 
 ## FiveM Scripts
 ### Paid
