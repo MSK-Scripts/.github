@@ -34,5 +34,4 @@
 Thank you to everyone who supports this project!
 
 <!-- sponsors -->
-<a href="https://github.com/cashbankss"><img src="https://avatars.githubusercontent.com/u/138404169?u=6fbe2a354875783bceb81bdc345e7d40d26b4cf0&v=4&s=60" width="60px" alt="cashbankss" title="cashbankss" /></a>&nbsp;
 <!-- sponsors -->
