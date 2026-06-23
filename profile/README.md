@@ -28,10 +28,3 @@
 ### Free
 * [Musiker15's Repositories](https://github.com/Musiker15)
 * [MSK Scripts Repositories](https://github.com/MSK-Scripts)
-
-## 💖 Sponsors
-
-Thank you to everyone who supports this project!
-
-<!-- sponsors -->
-<!-- sponsors -->
