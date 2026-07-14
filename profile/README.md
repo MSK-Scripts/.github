@@ -20,10 +20,10 @@
 
 ## FiveM Scripts
 ### Paid
-* [[ESX] MSK Garage - Garage & Impounds](https://forum.cfx.re/t/esx-msk-garage-and-impound/5122014)
-* [[ESX] MSK Handcuffs - Realistic Handcuffs & more](https://forum.cfx.re/t/esx-msk-handcuffs-realistic-handcuffs/4885324)
+* [[ESX] MSK Garage & Impound - In-Game Admin Dashboard](https://forum.cfx.re/t/esx-msk-garage-and-impound/5122014)
+* [[ESX] MSK Handcuffs - Realistic Handcuffs with Animations, Props and an In-Game Admin Dashboard](https://forum.cfx.re/t/esx-msk-handcuffs-realistic-handcuffs/4885324)
 * [[ESX] MSK Storage - Player owned storages](https://forum.cfx.re/t/esx-msk-storage/5252155)
-* [[ESX/QBCore] MSK VehicleKeys - Unique Items Support](https://forum.cfx.re/t/esx-qbcore-msk-vehiclekeys-unique-items/5264475)
+* [[ESX/QBCore] MSK VehicleKeys - Unique Items & In-Game Admin Dashboard](https://forum.cfx.re/t/esx-qbcore-msk-vehiclekeys-unique-items/5264475)
 
 ### Free
 * [Musiker15's Repositories](https://github.com/Musiker15)
