@@ -1,7 +1,7 @@
 # MSK Scripts
 
-Discord bots, web tools and FiveM resources. Everything is developed in-house,
-most of it is open source, and all of it is self-hostable.
+Discord bots, web tools and FiveM resources, all developed in-house.
+Most of it is open source and you can host it yourself.
 
 [**Shop**](https://www.msk-scripts.de) · [**Documentation**](https://docu.msk-scripts.de) · [**Discord**](https://discord.gg/5hHSBRHvJE)
 
@@ -24,16 +24,15 @@ most of it is open source, and all of it is self-hostable.
 
 ## Discord Bots
 
-Plain Discord bots. They talk to Discord and to nothing else: Node.js and a bot
-token are all they need.
+Plain Discord bots. They need Node.js and a bot token, nothing else.
 
 | Bot | What it does | Links |
 |---|---|---|
 | **MSK Ticket Bot** | Self-hosted ticket system on Discord.js v14. Ticket types with questionnaires, claim system, HTML transcripts, ratings, auto-close, a web dashboard and 7 languages. SQLite, MySQL/MariaDB or PostgreSQL. | [Overview](https://www.msk-scripts.de/ticketbot) · [Repo](https://github.com/MSK-Scripts/discord_ticketbot) · [Docs](https://docu.msk-scripts.de/discord/discord_ticketbot/getting-started/) |
 | **MSK Giveaway Bot** | Free giveaway bot with restart-safe scheduling, one-click entry, weighted bonus entries, eligibility rules, reroll and a web dashboard. Self-host it or use our official instance. | [Overview](https://www.msk-scripts.de/giveaway) · [Repo](https://github.com/MSK-Scripts/discord_giveawaybot) · [Docs](https://docu.msk-scripts.de/discord/discord_giveaway/getting-started/) |
 
-Not sure which ticket bot to pick? We put ours next to Discord Tickets, Sayrix
-and Ticket Tool, including the cases where another project fits you better:
+Comparing ticket bots? We put ours next to Discord Tickets, Sayrix and Ticket
+Tool, including the cases where another one fits you better:
 [**comparison**](https://www.msk-scripts.de/ticketbot/compare).
 
 ---
@@ -64,7 +63,7 @@ Encrypted or a Source version.
 
 ### Free and open source
 
-Around 20 resources live in this organisation, all of them free. The most used:
+Around 20 free resources in this organisation. The most used ones:
 
 | Resource | Frameworks | What it does |
 |---|---|---|
@@ -82,24 +81,24 @@ Around 20 resources live in this organisation, all of them free. The most used:
 
 ### Free asset library
 
-[**Image gallery**](https://www.msk-scripts.de/images) with thousands of GTA V
-and FiveM images: vehicles, peds, weapons and inventory items, free to use in
-your own resources.
+Thousands of GTA V and FiveM images in the
+[**image gallery**](https://www.msk-scripts.de/images): vehicles, peds, weapons
+and inventory items, free to use in your own resources.
 
 ---
 
 ## Developers
 
-* [Musiker15](https://github.com/Musiker15) — *Founder & Backend Developer*
-* [cmdde](https://github.com/cmdscripts) — *Frontend & Backend Developer*
-* [CS.AKツ](https://github.com/CodeStudios2023) — *Frontend & Backend Developer*
+* [Musiker15](https://github.com/Musiker15) - *Founder & Backend Developer*
+* [cmdde](https://github.com/cmdscripts) - *Frontend & Backend Developer*
+* [CS.AKツ](https://github.com/CodeStudios2023) - *Frontend & Backend Developer*
 
 ## Also from us
 
-* [Debian tutorials on musiker15.de](https://www.musiker15.de/) — server setup guides
+* [Debian tutorials on musiker15.de](https://www.musiker15.de/), server setup guides
 
 ## Support
 
-Questions, bug reports or a feature you are missing? The fastest way is our
-[**Discord**](https://discord.gg/5hHSBRHvJE). For anything about a purchase:
-info@msk-scripts.de
+Questions, bugs or a missing feature? Ask on
+[**Discord**](https://discord.gg/5hHSBRHvJE). That is where we answer fastest.
+For anything about a purchase: info@msk-scripts.de
