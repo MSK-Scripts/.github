@@ -18,6 +18,16 @@
 ## Debian Tutorials
 * [Musiker15 Website (www.musiker15.de)](https://www.musiker15.de/)
 
+## Discord Bots
+Standalone Discord bots. No game server, no FiveM, no framework required.
+* [MSK Ticket Bot](https://www.msk-scripts.de/ticketbot) - self-hosted ticket system on Discord.js v14, with HTML transcripts, a web dashboard and 7 languages
+* [MSK Giveaway Bot](https://www.msk-scripts.de/giveaway) - free giveaway bot with restart-safe scheduling, weighted bonus entries and a web dashboard
+
+## Web Tools
+* [MSK Forms](https://forms.msk-scripts.de/) - form and application platform with Discord integration
+* [MSK Paste](https://paste.msk-scripts.de/) - privacy-friendly, self-hosted pastebin
+* [MSK Shortener](https://s.msk-scripts.de/) - self-hosted URL shortener with statistics and QR codes
+
 ## FiveM Scripts
 ### Paid
 * [[ESX] MSK Garage & Impound - In-Game Admin Dashboard](https://forum.cfx.re/t/esx-msk-garage-and-impound/5122014)
