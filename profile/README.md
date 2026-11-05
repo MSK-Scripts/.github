@@ -50,22 +50,14 @@ Tool, including the cases where another one fits you better:
 
 ## FiveM Resources
 
-### Paid
-
-Sold at [msk-scripts.de](https://www.msk-scripts.de/packages), each as an
-Encrypted or a Source version.
-
-| Resource | Frameworks | Thread |
-|---|---|---|
-| **MSK Garage & Impound** | ESX | [cfx.re](https://forum.cfx.re/t/esx-msk-garage-and-impound/5122014) |
-| **MSK Handcuffs** | ESX, QBCore | [cfx.re](https://forum.cfx.re/t/esx-msk-handcuffs-realistic-handcuffs/4885324) |
-| **MSK VehicleKeys** | ESX, QBCore | [cfx.re](https://forum.cfx.re/t/esx-qbcore-msk-vehiclekeys-unique-items/5264475) |
-
 ### Free and open source
 
 | Resource | Frameworks | What it does |
 |---|---|---|
 | [msk_core](https://github.com/MSK-Scripts/msk_core) | ESX, QBCore, ox_core | The shared library the other resources build on |
+| [msk_garage](https://github.com/MSK-Scripts/msk_garage) | ESX, QBCore, Qbox | Garages and impounds with an in-game admin dashboard |
+| [msk_handcuffs](https://github.com/MSK-Scripts/msk_handcuffs) | ESX, QBCore | Realistic handcuffs, headbag, tape and ankle tracker |
+| [msk_vehiclekeys](https://github.com/MSK-Scripts/msk_vehiclekeys) | ESX, QBCore | Vehicle keys as items, with lock, unlock and a key menu |
 | [msk_enginetoggle](https://github.com/MSK-Scripts/msk_enginetoggle) | ESX, QBCore | Toggle a vehicle engine |
 | [msk_givevehicle](https://github.com/MSK-Scripts/msk_givevehicle) | ESX | Give, spawn and manage vehicles from an in-game admin dashboard |
 | [msk_fuel](https://github.com/MSK-Scripts/msk_fuel) | ESX, QBCore | Realistic fuel system |
