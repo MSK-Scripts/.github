@@ -63,18 +63,18 @@ Encrypted or a Source version.
 
 ### Free and open source
 
-Around 20 free resources in this organisation. The most used ones:
-
 | Resource | Frameworks | What it does |
 |---|---|---|
 | [msk_core](https://github.com/MSK-Scripts/msk_core) | ESX, QBCore, ox_core | The shared library the other resources build on |
 | [msk_enginetoggle](https://github.com/MSK-Scripts/msk_enginetoggle) | ESX, QBCore | Toggle a vehicle engine |
-| [msk_blackout](https://github.com/MSK-Scripts/msk_blackout) | ESX, QBCore | Weather blackout mini-heist |
-| [msk_aimedic](https://github.com/MSK-Scripts/msk_aimedic) | ESX | AI medic NPC |
 | [msk_givevehicle](https://github.com/MSK-Scripts/msk_givevehicle) | ESX | Give, spawn and manage vehicles from an in-game admin dashboard |
 | [msk_fuel](https://github.com/MSK-Scripts/msk_fuel) | ESX, QBCore | Realistic fuel system |
 | [msk_storage](https://github.com/MSK-Scripts/msk_storage) | ESX | Rentable warehouses with ox_inventory support |
 | [msk_jobGPS](https://github.com/MSK-Scripts/msk_jobGPS) | ESX, QBCore | Job blips and panic button |
+| [msk_whitelist](https://github.com/MSK-Scripts/msk_whitelist) | ESX | In-game whitelist |
+
+Older scripts that are no longer maintained are collected in the
+[**FiveM archive**](https://github.com/MSK-Scripts/fivem-archive).
 
 [**All free resources →**](https://github.com/orgs/MSK-Scripts/repositories?q=lang%3ALua+sort%3Astars) ·
 [**Live server statistics →**](https://www.msk-scripts.de/resources)
